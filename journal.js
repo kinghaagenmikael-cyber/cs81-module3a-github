@@ -12,3 +12,9 @@ function square(num) {
 }
 bash
 Copy code
+// Convert minutes to seconds
+function minutesToSeconds(minutes) {
+  return minutes * 60;
+}
+bash
+Copy code
