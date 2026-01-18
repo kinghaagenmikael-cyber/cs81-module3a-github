@@ -18,3 +18,9 @@ function minutesToSeconds(minutes) {
 }
 bash
 Copy code
+// Return the length of a string
+function getLength(text) {
+  return text.length;
+}
+bash
+Copy code
